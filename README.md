@@ -4,7 +4,7 @@ Applywise is a small, local-first job application assistant. It helps you keep y
 
 ## Run it
 
-Open `index.html` in a current desktop or mobile browser. The app has no build step or package dependencies.
+Open [`frontend/index.html`](./frontend/index.html) in a current desktop or mobile browser. The app has no build step or package dependencies.
 
 ## What’s included
 
