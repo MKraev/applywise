@@ -6,7 +6,10 @@ Applywise is a static browser app with no package dependencies or compilation st
 | --- | --- |
 | `frontend/index.html` | Page structure, navigation, application and skills forms, and the three workspace views |
 | `frontend/styles.css` | Visual design, responsive layout, and reduced-motion handling |
-| `frontend/app.js` | Application and skills storage, fit calculation, rendering, navigation, form validation, and event handling |
+| `frontend/storage.js` | Storage keys, DOM element references, and local application/skills persistence |
+| `frontend/utils.js` | Shared formatting, date, URL, escaping, and fit-calculation helpers |
+| `frontend/render.js` | Dashboard, application list, follow-up, profile, and insight rendering |
+| `frontend/app.js` | Form interactions, navigation, event handling, and app initialization |
 | `README.md` | Project introduction, quick-start instructions, and documentation entry point |
 | `docs/` | User, feature, privacy, and project guides |
 
